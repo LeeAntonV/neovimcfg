@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tree-sitter-java": "^0.21.0",
+    "tree-sitter-rust": "^0.21.0"
+  }
+}
